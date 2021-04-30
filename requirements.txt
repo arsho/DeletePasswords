@@ -5,4 +5,4 @@ PyMsgBox==1.0.6
 PyRect==0.1.4
 PyScreeze==0.1.21
 PyTweening==1.0.3
-urllib3==1.25.3
+urllib3==1.25.8
